@@ -1,6 +1,6 @@
-#include <Adafruit_Sensor.h>
-#include <DHT.h>
-#include <DHT_U.h>
+//#include <Adafruit_Sensor.h>
+#include <DHT.h> // DHT sensor library
+//#include <DHT_U.h>
 
 // Определение пинов
 #define DHTPIN D4       // Пин, к которому подключен датчик
